@@ -1,6 +1,6 @@
 # About
 
-This app shows all the planets from the Star Wars movies in a Table with their respective attributes.
+This app shows all the planets from the Star Wars movies in a table with their respective attributes.
 
 # Getting Started with Create React App
 
